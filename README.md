@@ -1,4 +1,4 @@
-# [Dining Philosophers Problem](http:https://en.wikipedia.org/wiki/Dining_philosophers_problem/ "Dining Philosophers Problem")
+# [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem "Dining Philosophers Problem")
 ###### This is one of my oldest personal projects.
 A simple java application displaying the Dining Philosophers Problem Implemented with Java Threads.
 
